@@ -38,7 +38,8 @@ Social-Network-Graph/
 │
 ├── SN.py                  # Main Python implementation
 ├── facebook_combined.txt  # Dataset (downloaded separately)
-└── README.md              # Project documentation
+├── README.md              # Project introduction
+└── Report.md              # Project documentation
 ```
 
 ---
